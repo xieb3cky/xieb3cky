@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects and exercises are available at [here](https://github.com/xieb3cky?tab=repositories).
 
-- 📫 How to reach me **xieb3cky16@gmail.com**
+- 📫 How to reach me **xieb3cky16@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
