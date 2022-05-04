@@ -1,12 +1,13 @@
 
 ## 🛠 What I learned so far !
-![boostrap&jquery](https://i.imgur.com/tmndP9b.png)
 
-![trio](https://i.imgur.com/NKSFpH0.png)
+![boostrap&jquery](https://i.imgur.com/SNHYcFs.png)
 
-![flask](https://i.imgur.com/OaPZfPL.png) 
+![trio](https://i.imgur.com/XaA7FbT.png)
 
-![one](https://i.imgur.com/lhh4HYj.png) 
+![flask](https://i.imgur.com/KDiM3iw.png) 
+
+![postgresql](https://i.imgur.com/V3lBquT.png) 
 
 <!---
 xieb3cky/xieb3cky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
