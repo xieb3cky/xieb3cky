@@ -1,7 +1,7 @@
 
 ## 🛠 What I learned so far !
 
-![boostrap&jquery](https://i.imgur.com/SNHYcFs.png)
+![boostrap&jquery](https://i.imgur.com/tmndP9b.png)
 
 ![trio](https://i.imgur.com/XaA7FbT.png)
 
