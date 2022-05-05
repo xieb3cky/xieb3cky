@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Becky!</h1>
-<h3 align="center">Software Engineer Fellow @ Springboard.</h3>
+<h3 align="center">Software Engineer Fellow @ Springboard</h3>
 
 - 🍎 I’m currently located in **New York, NY.**
 
