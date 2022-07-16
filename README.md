@@ -3,7 +3,7 @@
 
 - 🍎 I’m currently located in **New York, NY.**
 
-- 👀 I’m interested in **web development.**
+- 👀 I’m interested in **software engineering.**
 
 - 🌱 Currently, I am working on my **first capstone project!**
 
